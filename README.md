@@ -41,3 +41,11 @@ $$
 $$
 k_i = R\omega_c
 $$
+
+ST指定PI参数：
+
+![image](https://github.com/user-attachments/assets/d7f9c276-2ec3-4f4d-a80b-0812be50d5a3)
+
+![image](https://github.com/user-attachments/assets/2e41a19e-2e8e-4cde-a493-0ca5125fa2c7)
+
+
