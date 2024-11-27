@@ -1,0 +1,8 @@
+-IC:/Users/tql/OneDrive/文档/中期答辩/伺服电机/异步电机
+-IC:/Users/tql/OneDrive/文档/中期答辩/伺服电机/异步电机/Asynchronous_motor_2017a_grt_rtw
+-IG:/matLab/matlab/extern/include
+-IG:/matLab/matlab/simulink/include
+-IG:/matLab/matlab/rtw/c/src
+-IG:/matLab/matlab/rtw/c/src/ext_mode/common
+-IG:/matLab/matlab/toolbox/physmod/powersys/facts/facts
+-IG:/matLab/matlab/toolbox/physmod/powersys/DR/DR

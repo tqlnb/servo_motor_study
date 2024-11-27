@@ -1,0 +1,9 @@
+-IC:/Users/tql/OneDrive/文档/中期答辩/伺服电机/异步电机/拆分版
+-IC:/Users/tql/OneDrive/文档/中期答辩/伺服电机/异步电机/拆分版/sumAll_ert_rtw
+-IG:/matLab/matlab/extern/include
+-IG:/matLab/matlab/simulink/include
+-IG:/matLab/matlab/rtw/c/src
+-IG:/matLab/matlab/rtw/c/src/ext_mode/common
+-IG:/matLab/matlab/rtw/c/ert
+-IG:/matLab/matlab/toolbox/physmod/powersys/facts/facts
+-IG:/matLab/matlab/toolbox/physmod/powersys/DR/DR

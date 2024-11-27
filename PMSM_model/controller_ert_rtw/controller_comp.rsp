@@ -1,0 +1,7 @@
+-IC:/Users/tql/OneDrive/文档/中期答辩/伺服电机/PMSM_model
+-IC:/Users/tql/OneDrive/文档/中期答辩/伺服电机/PMSM_model/controller_ert_rtw
+-IG:/matLab/matlab/extern/include
+-IG:/matLab/matlab/simulink/include
+-IG:/matLab/matlab/rtw/c/src
+-IG:/matLab/matlab/rtw/c/src/ext_mode/common
+-IG:/matLab/matlab/rtw/c/ert

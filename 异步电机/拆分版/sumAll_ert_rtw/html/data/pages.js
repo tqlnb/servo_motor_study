@@ -1,0 +1,1 @@
+var reportPages = [["摘要","sumAll_survey.html"],["子系统报告","sumAll_subsystems.html"],["代码接口报告","sumAll_interface.html"],["可追溯性报告","sumAll_trace.html"],["静态代码度量报告","sumAll_metrics.html"],["已消除模块","sumAll_reducedblocks.html"],["代码替换报告","sumAll_replacements.html"],["代码生成器假设","sumAll_coderassumptions.html"]];

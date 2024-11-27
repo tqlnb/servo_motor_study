@@ -1,0 +1,1 @@
+var reportPages = [["摘要","motor_survey.html"],["子系统报告","motor_subsystems.html"],["代码接口报告","motor_interface.html"],["可追溯性报告","motor_trace.html"],["静态代码度量报告","motor_metrics.html"],["已消除模块","motor_reducedblocks.html"],["代码替换报告","motor_replacements.html"],["代码生成器假设","motor_coderassumptions.html"]];
