@@ -6,3 +6,6 @@ PMSM的dq轴电压方程
 
 最终传递函数：
 
+$$
+G_(s)=\frac{k_ps+k_i}{L_ds^2+(k_p+R)s+k_i}
+$$
