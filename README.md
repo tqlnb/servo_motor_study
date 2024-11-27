@@ -48,4 +48,8 @@ ST指定PI参数：
 
 ![image](https://github.com/user-attachments/assets/2e41a19e-2e8e-4cde-a493-0ca5125fa2c7)
 
+电机运动方程：
+
+![image](https://github.com/user-attachments/assets/5630f20c-5c03-4f0a-a8a1-79c811bf6a9e)
+
 
